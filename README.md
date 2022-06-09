@@ -4,6 +4,11 @@
 タグは考慮されておりません。
 
 ```
+yarn add texttip 
+or 
+npm install texttip
+
+
 texttip('ID name',jsonData);
 ```
 
